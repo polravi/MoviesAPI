@@ -1,10 +1,11 @@
 # MoviesAPI
  
-
->Migration files are created for seeding the dummyy data in MoviesAPI.DB project.
+```
+  Migration files are created for seeding the dummyy data in MoviesAPI.DB project.
+  
   Please run "Update-database" using Package Manager console. 
   It will create the local db as well as feed it with seed data.
-
+```
 Test Project is not created.
 
 ## API Endpoints:
